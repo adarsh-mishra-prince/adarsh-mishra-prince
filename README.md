@@ -231,6 +231,15 @@
      <a href="https://www.figma.com/proto/XmMIFgQXB3r2kC492sHI1C/Nike-Air-Max?page-id=0%3A1&node-id=201-5&viewport=647%2C322%2C0.27&scaling=scale-down">(Open in Figma)</a>
   </p>
           <br>
+          <!--20-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/1f120118147cc49e155a1b72593cf682be510967/resources/Air%20Max%2090.png" alt="" width="400" height="250">
+          </p>
+  <p font-weight:"bold" align="center">
+  Nike Air Max 90.
+     <a href="https://www.figma.com/proto/8zCLr06mSv4i9QxnCFbESg/Untitled?page-id=0%3A1&node-id=3-5&viewport=268%2C276%2C0.61&scaling=min-zoom">(Open in Figma)</a>
+  </p>
+          <br>
          <!--21-->
  <p align="center">
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p21-iPhone%2014%20Pro%20Max%20-%2011%20Jabra%20elite%2045h.png" alt="" width="400" height="700">
